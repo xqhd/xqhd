@@ -1,4 +1,4 @@
-### Hi there 👋I’m currently　learning programming languages like Python and C#.
+### Hi there 👋．I’m currently　learning programming languages like Python and C#.
 
 <!--
 **xqhd/xqhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
